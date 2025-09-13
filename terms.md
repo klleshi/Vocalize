@@ -1,7 +1,7 @@
 # Termini di Servizio di Vocalize
 ### Ultimo aggiornamento: 13/09/2025
 
-### Benvenuto in [Nome App]! 
+### Benvenuto in Vocalize! 
 ### Questi Termini di Servizio ("Termini") regolano l'utilizzo della nostra applicazione mobile ("Servizio"). Leggili attentamente prima di usare l'app.
 
 ### Accedendo o utilizzando il nostro Servizio, accetti di essere vincolato da questi Termini.
